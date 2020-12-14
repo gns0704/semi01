@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-목록페이지.....
+목록페이지.....;;
 </body>
 </html>
