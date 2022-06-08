@@ -8,6 +8,7 @@
 <title>main.jsp</title>
 </head>
 <body>
+	11111111111111111111111111111111111
 <h1>영화정보</h1>
 <ul>
 	<c:forEach var="vo" items="${list }">
